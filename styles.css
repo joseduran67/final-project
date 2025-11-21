@@ -48,6 +48,8 @@ body{
     background-color: #555;
 }
 main{
-    text-align: ;
+    display: flex;
+    justify-items: end;
+    align-items: end;
 }
 
